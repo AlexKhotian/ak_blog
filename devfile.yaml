@@ -2,8 +2,8 @@ schemaVersion: 2.0.0
 metadata:
   name: blog_dev
 components:
-  - name: nodejs-env
+  - name: node-env
     container:
-      image: nodejs
+      image: node
       mountSources: true
       command: ['sleep', '1800']
