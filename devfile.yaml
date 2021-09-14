@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: blog_dev
+  name: blogdev
 components:
   - name: node-env
     container:
